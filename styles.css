@@ -1,0 +1,67 @@
+/* Styling for the card container with updated background, border, and shadow */
+.card {
+    border: 2px solid #4CAF50; /* Changed border color to green */
+    border-radius: 20px; /* Softer corners */
+    width: 320px; /* Fixed width */
+    margin: 50px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+    background-color: #f0f8ff; /* Light blue background */
+}
+
+/* Styling for the animal name */
+.animal-name {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+/* Styling for the image */
+.animal-image {
+    display: block;
+    width: 300px; /* Fixed width for the image */
+    height: auto;
+    border-radius: 10px; /* Rounded corners for the image */
+    margin: 10px auto;
+    border: 1px solid #ccc;
+}
+
+/* Styling for the text content */
+.animal-fact {
+    font-style: italic; /* Italic for the interesting fact */
+    font-size: 14px;
+    margin: 10px 0;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+/* Styling for the list */
+.animal-details {
+    padding: 0;
+    list-style: none;
+    margin: 10px 0;
+}
+
+.animal-details li {
+    margin-bottom: 5px;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* Styling for the description */
+.animal-description {
+    font-size: 14px;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+}
+
+/* General padding for content */
+.card-info {
+    padding: 10px 0;
+}
