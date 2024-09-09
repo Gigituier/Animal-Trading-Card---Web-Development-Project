@@ -24,7 +24,7 @@ Here is a preview of the final trading card:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/animal-trading-card.git
+    git clone https://github.com/Gigituier/animal-trading-card.git
     ```
 
 2. Navigate to the project directory:
